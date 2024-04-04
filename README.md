@@ -23,7 +23,7 @@ This project implements image recognition using a Convolutional Neural Network (
 ## Usage
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/your-repository.git
+   git clone https://github.com/Sarathi1607/TNSDC-GEN-AI.git
    ```
 2. Run the script:
    ```
